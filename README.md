@@ -1,1 +1,6 @@
-# Testrepo for system for høringsuttalelser
+# Testrepo - System for høringsuttalelser
+
+Stack:
+- node
+- express
+- mongoDB
