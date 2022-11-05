@@ -6,4 +6,4 @@ Stack:
 - express
 - mongoDB
 
-Ta kontakt om du har spørsmål
+Ta kontakt om du har spørsmål! :-)
