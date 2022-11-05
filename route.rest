@@ -1,0 +1,15 @@
+GET http://localhost:3000/api/
+
+###
+
+GET http://localhost:3000/api/12
+
+###
+
+POST http://localhost:3000/api/
+Content-Type: application/json
+
+{
+    "hoering_id": "0001",
+    "tittel": "H1-test"
+}
